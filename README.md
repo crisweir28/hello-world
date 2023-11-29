@@ -6,3 +6,4 @@ This tutorial focus mainly on Git and using Githubas its remote
 This repository is built step by step in the tutorial 
 
 It now includes steps for GitHub.
+A new line.
